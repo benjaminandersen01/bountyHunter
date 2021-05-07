@@ -1,0 +1,7 @@
+{
+  "name": "bounty-hunter",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
